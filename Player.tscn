@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://day640yal6pyw"]
+
+[ext_resource type="PackedScene" uid="uid://c37n76seu0fq2" path="res://Player/cac-1786169054966.gltf" id="1_xhfnw"]
+
+[node name="CharacterBody3D" type="CharacterBody3D" unique_id=1025671632]
+
+[node name="AuxScene" parent="." unique_id=999556685 instance=ExtResource("1_xhfnw")]
+transform = Transform3D(0.1, 0, 0, 0, 0.1, 0, 0, 0, 0.1, 1, 6.7268114, 1)
