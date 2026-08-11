@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://c37n76seu0fq2"
-path="res://.godot/imported/cac-1786169054966.gltf-244d843af6368c32f6017af2cc1aa5fc.scn"
+uid="uid://cedtntni6qars"
+path="res://.godot/imported/Copilot3D-da579de6-3474-4cb7-884c-aa7b7ba585a5.glb-8413bd3c5a37f8e2ef3fc0320442742e.scn"
 
 [deps]
 
-source_file="res://Player/cac-1786169054966.gltf"
-dest_files=["res://.godot/imported/cac-1786169054966.gltf-244d843af6368c32f6017af2cc1aa5fc.scn"]
+source_file="res://Assets/Rifle/source/Copilot3D-da579de6-3474-4cb7-884c-aa7b7ba585a5.glb"
+dest_files=["res://.godot/imported/Copilot3D-da579de6-3474-4cb7-884c-aa7b7ba585a5.glb-8413bd3c5a37f8e2ef3fc0320442742e.scn"]
 
 [params]
 

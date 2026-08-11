@@ -2,20 +2,17 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cy6wfx3w0r831"
-path.s3tc="res://.godot/imported/cac-1786169054966_2.png-bd575409642685204aa73e0f53b1094c.s3tc.ctex"
+uid="uid://hl8w41k0t8ia"
+path.s3tc="res://.godot/imported/ProtGrid0.jpg-5f832485dd361463467aa11c98d1927e.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
-generator_parameters={
-"md5": "9e8eaf6c542bcccc3e20383e2da19a36"
-}
 
 [deps]
 
-source_file="res://Player/cac-1786169054966_2.png"
-dest_files=["res://.godot/imported/cac-1786169054966_2.png-bd575409642685204aa73e0f53b1094c.s3tc.ctex"]
+source_file="res://demo/assets/textures/ProtGrid0.jpg"
+dest_files=["res://.godot/imported/ProtGrid0.jpg-5f832485dd361463467aa11c98d1927e.s3tc.ctex"]
 
 [params]
 
@@ -25,7 +22,7 @@ compress/lossy_quality=0.7
 compress/uastc_level=0
 compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
-compress/normal_map=0
+compress/normal_map=2
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1

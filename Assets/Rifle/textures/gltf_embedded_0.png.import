@@ -2,24 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cwe44bmkwaxyg"
-path.s3tc="res://.godot/imported/cac-1786169054966_0.png-20e89dc6b721670584ff28262c19be30.s3tc.ctex"
+uid="uid://2pvw8h6fn714"
+path="res://.godot/imported/gltf_embedded_0.png-af5a994873fe22d5324865fde72e874e.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
-}
-generator_parameters={
-"md5": "fc584f85dc264899a35e2be26d93cd3e"
+"vram_texture": false
 }
 
 [deps]
 
-source_file="res://Player/cac-1786169054966_0.png"
-dest_files=["res://.godot/imported/cac-1786169054966_0.png-20e89dc6b721670584ff28262c19be30.s3tc.ctex"]
+source_file="res://Assets/Rifle/textures/gltf_embedded_0.png"
+dest_files=["res://.godot/imported/gltf_embedded_0.png-af5a994873fe22d5324865fde72e874e.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=0
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/uastc_level=0
@@ -27,7 +23,7 @@ compress/rdo_quality_loss=0.0
 compress/hdr_compression=1
 compress/normal_map=0
 compress/channel_pack=0
-mipmaps/generate=true
+mipmaps/generate=false
 mipmaps/limit=-1
 roughness/mode=0
 roughness/src_normal=""
@@ -41,4 +37,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1
